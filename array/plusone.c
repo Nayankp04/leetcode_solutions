@@ -3,7 +3,7 @@ Problem: Plus One
 Platform: LeetCode
 Difficulty: Easy
 Topic: Array, Math
-Date Solved: 20-03-2026
+Date Solved: 23-03-2026
 
 Problem Description:
 You are given a large integer represented as an array of digits.
